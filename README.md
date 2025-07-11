@@ -126,7 +126,7 @@ Branding & Design – Creating strong and memorable brand identities.
 <p align="center">
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSevJAasjy4LYz9iuAzcTZu7oppCqni7uoVxzVSDm5pNVp17ww/viewform?pli=1" target="_blank">
-  <img src="data/src/ss3.png" alt="Form Image" style="max-width: 100%; height: auto;">
+  <img src="images/image.png" alt="Form Image" style="max-width: 100%; height: auto;">
 </a>
 
 ### Credit's
