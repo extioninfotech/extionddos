@@ -12,7 +12,7 @@ We use it to test under NDA agreements with clients and their consents for pente
 </p>
 
 <p align="center">
-An Advanced Layer 7 DDoS tool written by Cybersecurity team of Extion infotech
+An Advanced Layer 7 DDoS tool written by Aryan Singh for Extion infotech
 </p>
 
 # Description
